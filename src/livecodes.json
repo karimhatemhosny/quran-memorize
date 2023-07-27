@@ -1,0 +1,30 @@
+{
+  "title": "Quran memorize table 1",
+  "description": "",
+  "tags": [],
+  "activeEditor": "markup",
+  "markup": {
+    "language": "html",
+    "content": "<!doctype html>\r\n<html lang=\"en\">\r\n  <head>\r\n    <meta charset=\"UTF-8\" />\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>Quaran table</title>\r\n  </head>\r\n  <body>\r\n    <table border='1'>\r\n      <thead>\r\n        <tr>\r\n          <th>date</th>\r\n          <th>memorize</th> \r\n          <th>revise</th> \r\n          <th>pages</th> \r\n        </tr>\r\n      </thead>\r\n      <tbody>\r\n        <tr>\r\n          <td>27/7/2023</td>\r\n          <td>سورة الواقعة</td>\r\n          <td>سورة الحديد</td>\r\n          <td>2 pages</td>\r\n        </tr>\r\n        <tr>\r\n          <td>29/7/2023</td>\r\n          <td>سورة النجم</td>\r\n          <td>سورة الطور</td>\r\n          <td>2 pages</td>\r\n        </tr>\r\n        <tr>\r\n          <td>31/7/2023</td>\r\n          <td>سورة القمر</td>\r\n          <td>سورة الذاريات</td>\r\n          <td>2 pages</td>\r\n        </tr>\r\n        <tr>\r\n          <td>2/8/2023</td>\r\n          <td>سورة الرحمن</td>\r\n          <td>all</td>\r\n          <td>all pages</td>\r\n        </tr>\r\n      </tbody>\r\n      <tfoot>\r\n        <tr>\r\n          <td>Total</td>\r\n          <td>4</td>\r\n          <td>4</td>\r\n          <td>8 pages</td>\r\n        </tr>\r\n      </tfoot>\r\n    </table>\r\n  </body>\r\n</html>\r\n"
+  },
+  "style": {
+    "language": "css",
+    "content": "html {\r\n  font-family: Arial, Helvetica, sans-serif;\r\n}\r\ntable{\r\n  border-collapse: collapse;\r\n  margin: auto;\r\n}\r\nth, td{\r\n  padding: 10px;\r\n  text-align: center;\r\n  text-transform: capitalize;\r\n}\r\ntfoot{\r\n  font-weight: 600;\r\n}\r\n"
+  },
+  "script": {
+    "language": "javascript",
+    "content": ""
+  },
+  "stylesheets": [],
+  "scripts": [],
+  "cssPreset": "",
+  "processors": [],
+  "customSettings": {},
+  "imports": {},
+  "types": {},
+  "tests": {
+    "language": "typescript",
+    "content": ""
+  },
+  "version": "9"
+}

@@ -1,0 +1,15 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+table{
+  border-collapse: collapse;
+  margin: auto;
+}
+th, td{
+  padding: 10px;
+  text-align: center;
+  text-transform: capitalize;
+}
+tfoot{
+  font-weight: 600;
+}
